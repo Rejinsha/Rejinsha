@@ -1,11 +1,11 @@
-[![MasterHead](https://3.imimg.com/data3/OR/LL/DIR-2522466/sites-all-themes-sky-images-banner-osd_banner-500x500.jpg)](https://Rejinsha.github.io)
+[![MasterHead](https://ibb.co/GtTjQdB)](https://Rejinsha.github.io)
 <h1 align="center">Hi 👋, I'm Rejinsha Shahudeen</h1>
 <h3 align="center">Self-driven, Backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rejinsha&label=Profile%20views&color=129e00&style=plastic" alt="Rejinsha" /> </p>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/677/514/non_2x/man-with-laptop-studying-or-working-concept.jpg">
 
-- 👨‍💻 You can also check out my portfolio at [https://rejinsha.github.io/](https://Rejinsh.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://Rejinsha.github.io/](https://Rejinsh.github.io/)
 
 - 📫 How to reach me **Rejinshalb@gmail.com**
 
