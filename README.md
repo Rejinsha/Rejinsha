@@ -1,4 +1,3 @@
-[![MasterHead](https://angyal.in/open-source.png)](https://Rejinsha.github.io)
 <h1 align="center">Hi 👋, I'm Rejinsha Shahudeen</h1>
 <h3 align="center">Self-driven, Backend developer.</h3>
 
