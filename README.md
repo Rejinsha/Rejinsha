@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rejinsha&label=Profile%20views&color=129e00&style=plastic" alt="Rejinsha" /> </p>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/677/514/non_2x/man-with-laptop-studying-or-working-concept.jpg">
 
-- 👨‍💻 You can also check out my portfolio at [https://Rejinsha.github.io/](https://Rejinsha.github.io)
+- 👨‍💻 You can also check out my portfolio at [https://www.rejin.dev/](https://www.rejin.dev)
 
 - 📫 How to reach me **Rejinshalb@gmail.com**
 
